@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sysauto/!svn/ver/45/sysauto/application/models/daos
+END
+ano_modelo_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/ano_modelo_dao.php
+END
+cidade_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/cidade_dao.php
+END
+estado_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/estado_dao.php
+END
+modelo_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/modelo_dao.php
+END
+generic_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/generic_dao.php
+END
+empresa_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/empresa_dao.php
+END
+marca_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/marca_dao.php
+END
+motorista_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sysauto/!svn/ver/43/sysauto/application/models/daos/motorista_dao.php
+END
+seguro_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/seguro_dao.php
+END
+usuario_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/usuario_dao.php
+END
+menu_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/menu_dao.php
+END
+perfil_acesso_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/perfil_acesso_dao.php
+END
+veiculo_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sysauto/!svn/ver/45/sysauto/application/models/daos/veiculo_dao.php
+END
+tipo_oleo_dao.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sysauto/!svn/ver/37/sysauto/application/models/daos/tipo_oleo_dao.php
+END

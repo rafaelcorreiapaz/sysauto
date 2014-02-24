@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sysauto/!svn/ver/43/sysauto/application/language/pt-BR
+END
+form_validation_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sysauto/!svn/ver/43/sysauto/application/language/pt-BR/form_validation_lang.php
+END
+ftp_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/ftp_lang.php
+END
+imglib_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/imglib_lang.php
+END
+upload_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/upload_lang.php
+END
+calendar_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/calendar_lang.php
+END
+date_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/date_lang.php
+END
+db_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/db_lang.php
+END
+unit_test_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/unit_test_lang.php
+END
+email_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/email_lang.php
+END
+number_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/number_lang.php
+END
+profiler_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/profiler_lang.php
+END
+validation_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sysauto/!svn/ver/37/sysauto/application/language/pt-BR/validation_lang.php
+END

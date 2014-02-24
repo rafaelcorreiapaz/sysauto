@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sysauto/!svn/ver/45/sysauto/application/views/gerencia
+END
+usuario_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sysauto/!svn/ver/43/sysauto/application/views/gerencia/usuario_view.php
+END
+motorista_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sysauto/!svn/ver/45/sysauto/application/views/gerencia/motorista_view.php
+END
+veiculo_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sysauto/!svn/ver/43/sysauto/application/views/gerencia/veiculo_view.php
+END

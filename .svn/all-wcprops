@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/sysauto/!svn/ver/36/sysauto
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/sysauto/!svn/ver/37/sysauto/license.txt
+END
+.buildpath
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/sysauto/!svn/ver/37/sysauto/.buildpath
+END
+testmysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/sysauto/!svn/ver/37/sysauto/testmysql.php
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/sysauto/!svn/ver/37/sysauto/.project
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/sysauto/!svn/ver/37/sysauto/index.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/sysauto/!svn/ver/37/sysauto/.htaccess
+END
